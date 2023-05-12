@@ -12,7 +12,7 @@ function preload(){
 
 function setup(){
   
-createCanvas(400,400)
+createCanvas(400,400);
  
 //crear sprite de path (camino) 
  path = createSprite(200,200,50,50);
